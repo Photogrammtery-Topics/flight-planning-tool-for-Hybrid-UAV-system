@@ -4,3 +4,4 @@ The tool is one product of the scientific paper published in MDPI Drones juornal
 SIMULATING A HYBRID ACQUISITION SYSTEM FOR UAV PLATFORMS
 
 Install the matlab app given to use the tool.
+Check the wiki page for illustration
